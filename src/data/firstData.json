@@ -1,0 +1,10 @@
+{
+    "Properties": [
+        {
+            "Category": "General",
+            "ID": "Name",
+            "Type": "text",
+            "Value": "Default value"
+        }
+    ]
+}
